@@ -1,0 +1,18 @@
+h1#doctitle {color: white;
+font-family: 'Sofia';
+margin: 50px;
+margin-bottom: 5px;
+}
+input#userInput {
+	margin-left: 50px;
+}
+h1#userSign {color: ##355fe1;
+margin-left:600px;}
+
+p#userDescription{
+	font-size: 50px;
+	color:#8ffbfe;}
+
+	img {height: 300px;
+		margin-left:1000px;
+	}
